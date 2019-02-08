@@ -1,1 +1,8 @@
-# flutter code lab
+# flutter_code_lab
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
